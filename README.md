@@ -7,32 +7,33 @@
 - Chuck Norris Witze Feed
 - Listen, Grafiken und einfache GUI elemente
 
-## Struktur Paper
+# Struktur Paper
 
-### Einführung in React Native
+## Einführung in React Native
 - Anwendungsbbereiche und Zielgruppen
 - Funktionsweise
 - Möglichkeiten mit reac-native
 - Portierunggsdurchführung?? React-native --> IOS/ANDROID?
 - Requirements
 
-# Projektstruktur/Komponenten
+## Projektstruktur/Komponenten
  - Einführung in die einzelnen Komponenten
  - GUI
  - Styling
  - React redux
  - Redux Saga
  
-# Beispielprojekte
+## Beispielprojekte
 - Instagram
 - Facebook
 
-# Summary
+## Summary
 - Vergleich zu anderen Crossplatform
 - Zukunftssicherheit
-- Eigene Bewerttung
+- Eigene Bewertung
 
-
+## Fragen
+- 
 
 
 ## Useful Links
