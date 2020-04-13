@@ -1,10 +1,10 @@
 # react_native_mobIng
 
 ## Vorschläge Beispielprojekt/Aufgabe
-- Einkaufslist/Todo Liste
-- Einfacher Taschenrechner
+- Einkaufslist/Todo Liste --> Beispielprojekt
+- Einfacher Taschenrechner --> Laboraufgabe
 - Timer
-- Chuck Norris Witze Feed
+- Chuck Norris Witze Feed --> Beispielprojekt?
 - Listen, Grafiken und einfache GUI elemente
 
 # Struktur Paper
@@ -12,9 +12,8 @@
 ## Einführung in React Native
 - Anwendungsbbereiche und Zielgruppen
 - Funktionsweise
-- Möglichkeiten mit reac-native
-- Portierunggsdurchführung?? React-native --> IOS/ANDROID?
-- Requirements
+- Möglichkeiten mit react-native
+- System Requirements
 
 ## Projektstruktur/Komponenten
  - Einführung in die einzelnen Komponenten
@@ -23,6 +22,11 @@
  - React redux
  - Redux Saga
  
+## Portierunggsdurchführung
+- Native Elemente
+- Selbstdesignte Elemente
+- Gerennte Implementierung von einzelnen Elementen
+
 ## Beispielprojekte
 - Instagram
 - Facebook
