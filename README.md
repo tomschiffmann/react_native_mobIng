@@ -27,9 +27,9 @@
 - Selbstdesignte Elemente
 - Gerennte Implementierung von einzelnen Elementen
 
-## Beispielprojekte
+(## Beispielprojekte
 - Instagram
-- Facebook
+- Facebook)
 
 ## Summary
 - Vergleich zu anderen Crossplatform
